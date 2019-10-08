@@ -12,7 +12,7 @@ In order to access the Cicero command line interface (CLI), first install the `@
 ```bash
 npm i -g @accordproject/cicero-cli
 ```
-
+> i attribute for installation and -g is global
 > If you're new to `npm` the [installation instructions](accordproject-installation) have some more detailed guidance.
 
 ## Download a Template
